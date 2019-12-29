@@ -5,6 +5,16 @@ __pycache__/
 
 # C extensions
 *.so
+*.dll
+*.exe
+*.lib
+
+# MSVC extensions
+*.exp
+
+# Vim extensions
+*.swp
+*.vim
 
 # Distribution / packaging
 .Python
